@@ -1,3 +1,4 @@
+An Automatic number plate recognition software
 Libraries used:
   1) pytesseract
   2) cv2(openCV)
